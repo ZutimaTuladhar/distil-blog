@@ -1,0 +1,20 @@
+---
+title: "R Notebook"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+Blog Post: Research Question
+
+My background during my undergraduate is in Psychology and Industrial Relations. My prime research interests are in organizational behavior in various types of industries such as technology, healthcare and education to name a few. Organizational behavior is a subject that comprises of understanding how people interact among groups. Studies include understanding work relations, power and hierarchy, leadership and motivation. One of the primary goal of organizational behavior research would be to understand and develop more applied methods that make business operate more efficiently and garner satisfied workplace environment. As my research interest are currently very broad, there are categories that I divided them into in order to effectively select a question that best fit with the text as data research methods in class. The categories are  'Motivation at Workplace : Is implicit motivation better for long term employees over reward/incentive benefits?' , 'Power and Hierarchy: How do big tech companies maintain their hierarchy for an efficient workforce?'. 
+These are two of my starting points of developing a definite research question for the class. Although I am fairly new with the methods we would be learning in class, I would propose of collecting and creating own database for ethnographic review using media posts, news articles, website information and company newsletters. Previously, I have also worked with organizational behavior data that was collected through Mturk on differences with implicit motivation. This could be one of the options, on the other hand through researching for the class, I was able to identify two public datasets available online on the Mendeley Data website which may work best for my research. The first data was published on 21st July 2020, collected by the Bureau of Statistics. The data consists of two separate studies where Study 1 includes 'examines the relationship between income and the time spent socializing with work colleagues off the job for hourly paid workers (vs non-hourly paid workers)'(Pai 2020). Study 2 'conceptually replicates the results of the archival study and provided more direct causal evidence for the mechanism of economic evaluation through the process of random assignment'(Pai 2020). The data format for this dataset is available in tabular format. The second dataset was published by Ilanit SimanTov-Nachlieli,
+Liron Har-Vardi, Simone Moran in 30th January 2020, on understanding deception behaviors from company negotiators. I believe on further research and working with these data I would be able to identify if they would be applicable for the class. Meanwhile, I would be open to all feedbacks and comments on how I could approach this better. 
+
+
+Thank you
+
+
+
+
+
+
