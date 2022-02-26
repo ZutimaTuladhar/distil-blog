@@ -1,0 +1,57 @@
+---
+title: "Blog Post 2"
+description: "SOME DESCRIPTION"
+author: "Zutima Tuladhar"
+date: "`February 18th 2022`"
+output: distill::distill_article
+---
+
+
+
+Navigate and describe the characteristics of the data source of your
+interest, if you’ve specified one (or plan B). The characteristics include
+(1) its ‘content’ and/or (2) how it can be scraped.
+
+(1) Content
+
+Hypothesis : 
+
+
+(2) How data can be scraped
+
+Data could be collected through online review portals such as glassdoor, reddit and social media outlets focusing on twitter 
+
+
+Research Papers: 
+
+1. When and How Managers’ Responses to Online Reviews Affect Subsequent Reviews.
+
+
+
+
+
+WANG, Y., & CHAUDHRY, A. (2018). When and How Managers’ Responses to Online Reviews Affect Subsequent Reviews. Journal of Marketing Research, 55(2), 163–177. http://www.jstor.org/stable/44878549
+
+
+2. Social Media for Socially Responsible Firms: Analysis of Fortune 500’s Twitter Profiles and their CSR/CSIR Ratings
+
+
+
+
+
+
+Lee, K., Oh, W.-Y., & Kim, N. (2013). Social Media for Socially Responsible Firms: Analysis of Fortune 500’s Twitter Profiles and their CSR/CSIR Ratings. Journal of Business Ethics, 118(4), 791–806. http://www.jstor.org/stable/42921266
+
+
+3. Satisfaction with managers’ use of communication channels and its effect on employee-organisation relationships.
+
+Erjavec, K., Arsenijević, O., & Starc, J. (2018). Satisfaction with managers’ use of communication channels and its effect on employee-organisation relationships. Journal of East European Management Studies, 23(4), 559–578. https://www.jstor.org/stable/26617440
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
